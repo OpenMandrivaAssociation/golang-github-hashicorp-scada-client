@@ -1,0 +1,13 @@
+import:
+- package: github.com/hashicorp/go-msgpack
+  subpackages:
+  - codec
+  version: fa3f63826f7c23912c15263591e65d54d080b458
+- package: github.com/hashicorp/yamux
+  version: ae139c4ae7fe21e9d99459d2acc57967cebb6918
+- package: github.com/hashicorp/net-rpc-msgpackrpc
+  version: d377902b7aba83dd3895837b902f6cf3f71edcb2
+- package: github.com/armon/go-metrics
+  version: 6c5fa0d8f48f4661c9ba8709799c88d425ad20f0
+package: github.com/hashicorp/scada-client
+
